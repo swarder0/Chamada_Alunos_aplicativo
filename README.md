@@ -12,3 +12,7 @@ Foi inserido uma melhoria para o botão de presença/ausência, modificado para 
 **Atualizações 1.1**
 
 Realizado melhorias visuais no front do aplicativo, para auxiliar o usuario a identificar melhor onde deve ser inseridos os dados e como realizar a chamada de ida e volta, também fiz melhorias no botão de ação "Adicionar Alunos", antes utilizava um "buttom" mas sem poder ser customizado, agora foi feito com um "TouchableOpacity", funcionando da mesma forma mas, que facilita a modificações na aparencia dentro do app.
+
+**Atualizações 1.2**
+
+Foi feito uma modificação na forma como o usuario vai visualizar os alunos dentro do aplicativo, estou fazendo uma modificação para que seja feito uma busca pela escola e assim tenha a lista dos alunos daquela escola que iriam ir na van e o periodo que eles estão estudando, foi feito a logica por tras de como vai ser feito essa busca e o inicio do design de como vai ficar no final, ainda precisa ser feito a modificação para um botão de acesso para adicionar novos alunos caso seja necessario e um paraa excluir se necessario também.
